@@ -1,2 +1,2 @@
 # 12B-HW5
-This program solves chess puzzles when a user input places chess pieces and returns an output of the possible moves that could be done to checkmate 
+This program uses hashmap to take in an input file and count the number of times a word appears in a text file and finds the most frequent word.  
